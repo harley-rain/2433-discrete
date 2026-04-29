@@ -53,25 +53,4 @@ void printColumnHeadings ()
   // doing this step last!
 } 
 
-// Purpose: iterative Binary Search Algorithm (new&improved)
-// Recieves: none 
-// Returns: none
-void iBinSearch()
-{
-  //
-}
-
-// Purpose: recursive Binary Search Algorithm
-// Recieves: none 
-// Returns: none
-void rBinSearch()
-{
-  
-}
-
-// Iterative Merge Sort 
-void iMergeSort(int * x, long left, long right) 
-{
-  // 
-}
 
