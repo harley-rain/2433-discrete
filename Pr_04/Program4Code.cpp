@@ -46,7 +46,7 @@ int main()
 			//time the recursive Merge Sort with copy of array
 
 			//determine key to search for
-			int key = x[(int)log(n) + 1];
+	
 
 			//time the iterative Binary search
 
@@ -83,7 +83,7 @@ void genValues() {
 
 	//fill dynamically allocated array with random numbers
 	
-		value = rand();
+		long long value = rand();
 }
 
 //Perform iterative binary search for the key in the array

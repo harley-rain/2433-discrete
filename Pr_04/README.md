@@ -8,12 +8,17 @@ date: 05/01/2026
 ```
 ## Program 04 - Timing Algorithms 
 
-How this works: By randomly generating integers inside a dynmically allocated array, I will make a copy of original array & perform iterative merge sort on second copy. Then search for a key in the now sorted first array using iterative binary search and then again with binary search. Each algorithm will be timed in nanoseconds. 
+How this works: This program creates a list of random numbers and makes a copy of it. It sorts one list using iterative merge sort and the other using recursive merge sort. Then, it searches for a key in the sorted list using both iterative and recursive binary search. The program measures how long each algorithm takes (in nanoseconds) so their performance can be compared.
+
+## 
+
+Keywords: 
+Dynamic Arrays 
+Timings 
 
 
+
+### Algorithms:
+
+[Iterative Merge Sort](/Algorithms/Sorting/iMergeSort.cpp)
 [Rubric](Pr_04/Rubric.pdf)
-
-
-### Algorithms Tested: 
-
-
